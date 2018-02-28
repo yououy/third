@@ -1,4 +1,90 @@
 
+```
+gantt
+        dateFormat  YYYY-MM-DD
+        title Adding GANTT diagram
+        section 初级
+        Completed :done,des1, 2014-01-06,2014-01-08
+        Active task :active,  des2, 2014-01-09, 3d
+        Future task :crit, des3, after des2, 5d
+        Future task2 :des4, after des3, 5d
+        section 中级
+        1111  :crit, done, 2014-01-06,24h
+        2222  :crit, done, after des1,27h
+        3333  :crit, active, after des2,24h
+        4444  :crit, 5d
+        5555  :2d
+        6666  :1d
+```
+```
+gantt
+        dateFormat  MM-DD
+        title 加班
+        section 4月
+       优化语音导航播报次数 :done,des1, 01-14,01-15
+        section 5月
+        转移功能修正 :done,des1, 01-07, 01-08
+        
+```
+
+```
+gantt
+        dateFormat  MM-DD
+        title 版本升级（版本号81-85）
+        section 版本号：81
+        优化语音导航播报次数 :done,des1, 02-14,02-15
+        挂机接口 :done, des2, 02-16,02-23
+        产品测试上线 :crit,done,des3, 02-23,02-24
+        section 版本号：82
+        转移功能修正 :done,des1, 02-20,03-28
+        座席概率性通讯异常 :done, des2, 03-06,03-22
+        产品测试上线 :crit,done,des3, 03-27,03-28
+        section 版本号：83
+        橙美通讯异常(FS内部错误) :done,des1, 03-28,04-07
+        转移接回按键修正 :done,des2, 04-07,04-11
+        代答释放修正 :active,des2, 04-11,04-13
+        
+```
+
+```
+gantt
+        dateFormat  MM-DD
+        title 3月项目进度表
+        section 转移功能修正
+        队列转移修正 :done,des1, 03-01,03-06
+        DID转移修正 :done, des2, 03-06,03-08
+        外呼转移修正 :done,des3, 03-20,03-24
+        section 座席概率性通讯异常
+        百城语音网关 :done,des1, 03-06,03-10
+        百城IP话机  :done, des1,03-07,03-10
+        中企IP话机  :done, des3,03-09,03-20
+        协调亿联厂商  :done, des4,03-15,03-22
+        中企、百城ubox升级验证:done, des5,03-20,03-22
+        产品测试上线 :crit,done,des4, 03-27,03-28
+        section 橙美通讯异常(FS内部错误)
+        问题修正 :done,des1, 03-28,03-31
+        
+```
+```
+gantt
+        dateFormat  MM-DD
+        title 4月项目进度表
+        section 橙美通讯异常(FS内部错误)
+        问题修正 :done,des1, 03-28,03-31
+        问题修正 :done,des2, 04-05,04-07
+        section 转移接回按键
+        问题修正 :done,des1, 04-01,04-03
+        问题修正 :done,des2, 04-10,04-11
+        section 代答通道释放
+        问题修正 :active,des1, 04-11,04-13
+        section 客户问题
+        上海客户FS连接异常 :done,des1, 04-01,04-02
+        上海客户FS连接异常 :done,des2, 04-04,04-05
+        
+```
+
+
+
 </br>
 ![][id2]
 </br>
