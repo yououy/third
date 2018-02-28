@@ -48,12 +48,12 @@
 - [四. 注意事项](#%E5%9B%9B-%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 - [五. 常见故障与原因](#%E4%BA%94-%E5%B8%B8%E8%A7%81%E6%95%85%E9%9A%9C%E4%B8%8E%E5%8E%9F%E5%9B%A0)
 
+<!--img src="/Users/yo-yo/Desktop/文档路径/markdown/TQ话机说明/PIC/TQ智能固话使用说明文档3899.png" width="50" height="50"  align="right"-->
 
 
 ### 一. 使用前	 
 #### 1. 硬件接口基本说明
-##### 1.1 设备接口说明</br>
-<!--img src="/Users/yo-yo/Desktop/文档路径/markdown/TQ话机说明/PIC/TQ智能固话使用说明文档3899.png" width="50" height="50"  align="right"-->
+##### 1.1 设备接口说明</br>11111
 ![][id4]</br>
 ##### 1.2 键盘功能介绍</br>
 ![][id5]</br>
