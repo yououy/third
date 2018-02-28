@@ -53,13 +53,12 @@
 ### 一. 使用前	 
 #### 1. 硬件接口基本说明
 ##### 1.1 设备接口说明</br>
-<img src="/Users/yo-yo/Desktop/文档路径/markdown/TQ话机说明/PIC/TQ智能固话使用说明文档3899.png" width="50" height="50"  align="right">
+<!--img src="/Users/yo-yo/Desktop/文档路径/markdown/TQ话机说明/PIC/TQ智能固话使用说明文档3899.png" width="50" height="50"  align="right"-->
 ![][id4]</br>
 ##### 1.2 键盘功能介绍
 ![][id5]</br>
 #### 2. 菜单详解</br>
 ##### 2.1 助理小电
-
 &emsp;&emsp;由我公司自主研发的用于呼叫中心接打电话的APP软件。</br>
 ![][id6]</br>
 ##### 2.1 其他菜单</br>
